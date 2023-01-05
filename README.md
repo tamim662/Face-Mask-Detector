@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face-Mask-Detector
 ### Here, I implemented a deep learning model using YOLOv4 to detect Face Mask on Human face. 
 
 ------------------------------------------------------------------------------------------------
